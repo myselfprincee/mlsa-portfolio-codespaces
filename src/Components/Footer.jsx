@@ -28,15 +28,15 @@ import youTubeIcon from "../images/socials/youtube.svg";
 
 const Footer = (props) => {
   const {
-    devDotTo,
-    email,
-    gitHub,
-    instagram,
-    linkedIn,
-    medium,
-    name,
-    primaryColor,
-    twitter,
+    devDotTo = "princegupta",
+    email = "yourwebdevprince@gmail.com",
+    gitHub = "myselfprincee",
+    instagram = "_princeguptaaa",
+    linkedIn = "princeee",
+    medium = "@princeee",
+    name = "Prince Gupta",
+    primaryColor = "#610ee4",
+    twitter = "princedevelops",
     youTube,
   } = props;
 
