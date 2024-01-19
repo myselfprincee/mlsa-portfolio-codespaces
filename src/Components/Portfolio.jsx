@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10 Must have VS Code Extensions for Developers",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Hey everyone! I’m here with another Blog Post aimed at making your coding experience more efficient. This time, I’ve gathered tips and tricks that will save you heaps of time while you’re knee-deep in coding projects.",
+    url: "https://medium.com/gitconnected/10-must-have-vs-code-extensions-for-developers-7ddc22d81117",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Top 9 Free Hosting Providers for Web Developers",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Let’s talk about Top Free & Paid Hosting Providers for Developers. Which will be surely helpful for you all.",
+    url: "https://medium.com/gitconnected/top-9-free-hosting-providers-for-web-developers-73d31713f19e",
   },
   {
-    title: "My Resume Site",
+    title: "Making Your Web Development Better with TypeScript",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In this article, I’ll explain how TypeScript can make your web development projects better and more effective.",
+    url: "https://medium.com/gitconnected/making-your-web-development-better-with-typescript-ad55286126c5",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "A Step-by-Step Guide for Learning Regular Expressions : A Guide with Real-Life Usage",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Regular expressions, often referred to as regex, function by establishing patterns that enable you to seek out specific characters or words within strings.",
+    url: "https://medium.com/gitconnected/practical-examples-for-learning-regular-expressions-a-guide-with-real-life-usage-46aff5f409ab",
   },
 ];
 
